@@ -1,0 +1,14 @@
+09/02/2021 05:00:07 PM: [STARTING] The server is starting...
+09/02/2021 05:00:07 PM: [LISTENING] The server is listening on 127.0.0.1:12000 and is ready to receive.
+09/02/2021 05:01:23 PM: [NEW CONNECTION] New connection accepted from 127.0.0.1:53552 with the username 'Heidegger'.
+09/02/2021 05:01:32 PM: [NEW CONNECTION] New connection accepted from 127.0.0.1:53553 with the username 'Turing'.
+09/02/2021 05:01:40 PM: [NEW MESSAGE] Received message from Heidegger: Hello there!
+09/02/2021 05:01:44 PM: [NEW MESSAGE] Received message from Turing: Hi.
+09/02/2021 05:01:57 PM: [NEW MESSAGE] Received message from Heidegger: Goodbye then!
+09/02/2021 05:01:59 PM: [LEAVE] Heidegger used the /leave command.
+09/02/2021 05:01:59 PM: [CONNECTION CLOSED] Closed connection from the user Heidegger from 127.0.0.1:53552.
+09/02/2021 05:02:05 PM: [NEW MESSAGE] Received message from Turing: Farewell.
+09/02/2021 05:02:08 PM: [LEAVE] Turing used the /leave command.
+09/02/2021 05:02:08 PM: [CONNECTION CLOSED] Closed connection from the user Turing from 127.0.0.1:53553.
+09/02/2021 05:02:14 PM: [SERVER CLOSED] The server has been closed.
+
